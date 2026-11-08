@@ -1,0 +1,22 @@
+UserName,GivenName,Surname,DisplayName,Department,JobTitle,Manager,OfficeLocation,UsageLocation
+m.holloway,Margaret,Holloway,Margaret Holloway,Administration,Chief Executive Officer,,Main Campus,CA
+d.okafor,Daniel,Okafor,Daniel Okafor,Administration,HR Manager,m.holloway,Main Campus,CA
+p.raman,Priya,Raman,Priya Raman,Administration,Executive Assistant,m.holloway,Main Campus,CA
+t.lindqvist,Tomas,Lindqvist,Tomas Lindqvist,Administration,Patient Registration Lead,d.okafor,Main Campus,CA
+s.whitfield,Sarah,Whitfield,Sarah Whitfield,IT,IT Customer Services Manager,m.holloway,Main Campus,CA
+k.boucher,Kevin,Boucher,Kevin Boucher,IT,Service Desk Analyst,s.whitfield,Main Campus,CA
+a.mensah,Aisha,Mensah,Aisha Mensah,IT,Systems Administrator,s.whitfield,Main Campus,CA
+l.chartrand,Liam,Chartrand,Liam Chartrand,IT,Desktop Support Technician,s.whitfield,North Clinic,CA
+e.marchetti,Elena,Marchetti,Elena Marchetti,Nursing,Director of Nursing,m.holloway,Main Campus,CA
+j.tremblay,Jacques,Tremblay,Jacques Tremblay,Nursing,Nurse Manager - Medical,e.marchetti,Main Campus,CA
+h.cho,Hannah,Cho,Hannah Cho,Nursing,Registered Nurse,j.tremblay,Main Campus,CA
+o.haddad,Omar,Haddad,Omar Haddad,Nursing,Registered Nurse,j.tremblay,Main Campus,CA
+g.obi,Grace,Obi,Grace Obi,Nursing,Registered Practical Nurse,j.tremblay,North Clinic,CA
+n.fitzgerald,Noah,Fitzgerald,Noah Fitzgerald,Nursing,Registered Nurse,j.tremblay,North Clinic,CA
+m.zhang,Mei,Zhang,Mei Zhang,Nursing,Unit Clerk,j.tremblay,Main Campus,CA
+r.castellanos,Robert,Castellanos,Robert Castellanos,Pharmacy,Director of Pharmacy,m.holloway,Main Campus,CA
+f.rahimi,Fatima,Rahimi,Fatima Rahimi,Pharmacy,Clinical Pharmacist,r.castellanos,Main Campus,CA
+e.brouwer,Ethan,Brouwer,Ethan Brouwer,Pharmacy,Pharmacy Technician,r.castellanos,Main Campus,CA
+n.duchesne,Natalie,Duchesne,Natalie Duchesne,Finance,Finance Manager,m.holloway,Main Campus,CA
+s.adeyemi,Samuel,Adeyemi,Samuel Adeyemi,Finance,Accounts Payable Clerk,n.duchesne,Main Campus,CA
+c.bergeron,Chloe,Bergeron,Chloe Bergeron,Finance,Payroll Analyst,n.duchesne,Main Campus,CA

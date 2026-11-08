@@ -1,0 +1,19 @@
+# Secrets and local config -- never commit these
+*.env
+.env*
+*.pfx
+*.cer
+*.key
+secrets/
+credentials*.json
+*.secret
+
+# Exports that may contain tenant data (review before committing)
+exports/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
